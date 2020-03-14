@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-03-13T12:37:01</date>
+  <millis>1584117421225</millis>
+  <sequence>0</sequence>
+  <logger>MineSweeper</logger>
+  <level>INFO</level>
+  <class>MineSweeper</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Error with handler: java.io.FileNotFoundException: \minesweeper.properties (The system cannot find the file specified)</message>
+</record>
+<record>
+  <date>2020-03-13T12:37:01</date>
+  <millis>1584117421554</millis>
+  <sequence>1</sequence>
+  <logger>MineSweeper</logger>
+  <level>INFO</level>
+  <class>MineSweeper</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>32</message>
+</record>
+<record>
+  <date>2020-03-13T12:37:01</date>
+  <millis>1584117421612</millis>
+  <sequence>2</sequence>
+  <logger>MineSweeper</logger>
+  <level>INFO</level>
+  <class>MineSweeper</class>
+  <method>setUpBoard</method>
+  <thread>1</thread>
+  <message>Size of field: 9, 9</message>
+</record>
+</log>
